@@ -12,7 +12,7 @@ the expected test information.
 In the assertEqual function I use student1 and student2 to access the property display_name 
 using dot notation in the student info file.
 
-I repeated this process for the rest of the functions and ran the tests.
+I repeated this process for the rest of the functions and ran the tests in pycharm.
 """
 
 class TestingStudent(unittest.TestCase):
